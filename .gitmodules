@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/vladimir-ponomarenko/visual_programming_backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/vladimir-ponomarenko/visual_programming_frontend.git
